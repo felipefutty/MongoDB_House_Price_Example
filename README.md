@@ -110,3 +110,7 @@ db.homeSales.aggregate([
   }
 ]);
 ```
+
+# Reference
+
+Dataset: [MongoDB Example](https://www.mongodb.com/blog/post/joins-and-other-aggregation-enhancements-coming-in-mongodb-3-2-part-2-of-3-worked-examples)
